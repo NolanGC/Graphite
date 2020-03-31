@@ -2,9 +2,9 @@
 ### Graphite
 --- 
 > Goal:
-Find an **efficient** workflow for converted typed text into __personalized__ $handwriting$.
+Find an **efficient** workflow for converted typed text into __personalized__ _handwriting_.
 
-####Ideas 
+### Ideas 
 1. Create an efficient way to generate a typable font from handwriting
    | Advantages | Drawbacks |
    | ------ | ----------- |
@@ -19,10 +19,10 @@ Find an **efficient** workflow for converted typed text into __personalized__ $h
    | If done right, will be convincing | Training time can slow down the process |
    | Interesting | Large text may prove too slow to generate
 
-####Universal Challenge
+#### Universal Challenge
 _Regardless of approach, streamlined input collection will be a challenge_
 
-######Solutions:
+###### Solutions:
 + Create a printable template which in conjunction with a scanner, creates either training data for the ANN or the font itself
 + ?
 
