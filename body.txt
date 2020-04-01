@@ -1,0 +1,23 @@
+public static void main(String[] args)
+{
+
+    for( int i = 0; i < 420; i=i+1  )
+    {
+        System.out.println( "work smarter");
+
+    }
+}
+public  static void cheat( )
+{
+
+    //This tool is not for cheating
+    if( && ll >= <=){
+        //its for saving time :D
+         
+    }
+}
+
+I LoVE DENNy
+abcdefghijklmnopqrstuvwxyz
+
+ [o-o] (^.^)

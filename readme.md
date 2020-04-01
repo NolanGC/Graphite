@@ -29,3 +29,4 @@ _Regardless of approach, streamlined input collection will be a challenge_
 ---
 ### Checklist
 + ~~research existing tech~~
+https://www.calligraphr.com/en/?rtom=myscriptfont
