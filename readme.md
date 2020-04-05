@@ -12,3 +12,7 @@ Find an **efficient** workflow for converted typed text into __personalized__ _h
    - Be sure to upload your own background image (in place of graph.jpg)
    - Place your font file in the directory
 3. Run graphite.py and observe the result in sample.png (or whatever path you changed it to)
+
+Sample:
+
+![Sample Output](https://github.com/NolanGC/Graphite/blob/master/sample.png)
