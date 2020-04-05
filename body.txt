@@ -1,23 +1,24 @@
-public static void main(String[] args)
-{
-
-    for( int i = 0; i < 420; i=i+1  )
-    {
-        System.out.println( "work smarter");
-
+public class Example {
+    public static void main(String args[]){
+        for(int i = 0; i < 100; i++){
+            if(coolNumber(i)){
+                numbers.add(i);
+            }
+        }
+        int[] k = new int[numbers.size()];
+        int index = 0;
+        for (Integer x : numbers){
+            k[index] = Math.sqrt(x);
+            index++;
+        }
+    }
+    public static boolean coolNumber(int num){
+        return num % 10 == 0
     }
 }
-public  static void cheat( )
-{
-
-    //This tool is not for cheating
-    if( && ll >= <=){
-        //its for saving time :D
-         
-    }
-}
-
-I LoVE DENNy
-abcdefghijklmnopqrstuvwxyz
-
- [o-o] (^.^)
+Graphite, archaically referred to as plumbago, is a 
+crystalline form of the element carbon with its
+atoms arranged in a hexagonal structure. 
+It occurs naturally in this form and 
+is the most stable form of carbon under
+standard conditions. 
