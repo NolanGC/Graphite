@@ -1,6 +1,7 @@
 
 ### Graphite
 --- 
+![Sample Output](https://github.com/NolanGC/Graphite/blob/master/sample.png)
 > Goal:
 Find an **efficient** workflow for converted typed text into __personalized__ _handwriting_.
 
@@ -15,4 +16,3 @@ Find an **efficient** workflow for converted typed text into __personalized__ _h
 
 Sample:
 
-![Sample Output](https://github.com/NolanGC/Graphite/blob/master/sample.png)
